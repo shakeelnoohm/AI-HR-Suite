@@ -1,0 +1,5 @@
+ALICE SMITH
+alice@example.com
+EDUCATION: B.S. Computer Science (2026), GPA 3.8
+SKILLS: Java, Python, JavaScript, TypeScript, React, Node.js, Git
+EXPERIENCE: Software Engineering Intern - TechCorp (Summer 2025). Developed REST API using Node.js, Frontend with React.

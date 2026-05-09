@@ -1,0 +1,5 @@
+EVAN WRIGHT
+evan@example.com
+EDUCATION: M.S. Computer Science (2026)
+SKILLS: C++, Java, Golang, Algorithms
+EXPERIENCE: Teaching Assistant for Data Structures & Algorithms. Explaining C++ pointers and memory.

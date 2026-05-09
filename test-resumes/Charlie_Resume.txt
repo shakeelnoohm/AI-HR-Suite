@@ -1,0 +1,5 @@
+CHARLIE BROWN
+charlie@example.com
+EDUCATION: B.S. Software Engineering (2025)
+SKILLS: JavaScript, TypeScript, React, Next.js, Web Performance, PostgreSQL
+EXPERIENCE: Freelance Full-Stack Developer. Built 5 Next.js e-commerce sites. Optimized load speeds by 40%.

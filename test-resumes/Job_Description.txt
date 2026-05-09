@@ -1,0 +1,11 @@
+**Job Title**: Junior Software Development Engineer (Fresher)
+**Location**: Remote
+**About the Role**:
+We are looking for a motivated graduating senior or recent graduate to join our frontend/full-stack team as a Junior SDE. You will work alongside senior engineers to build user-facing features, optimize APIs, and improve web performance.
+
+**Requirements**:
+- Bachelor's degree in Computer Science, Software Engineering, or related field
+- Strong proficiency in JavaScript/TypeScript
+- Experience with modern frontend frameworks (React, Next.js)
+- Familiarity with backend development (Node.js/Express) and REST APIs
+- Problem-Solving mentality.

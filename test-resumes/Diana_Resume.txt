@@ -1,0 +1,5 @@
+DIANA PRINCE
+diana@example.com
+EDUCATION: Bootcamp Data Science (2025)
+SKILLS: Python, Pandas, Machine Learning, SQL
+EXPERIENCE: Data Analyst Intern. Created dashboards in Tableau.
